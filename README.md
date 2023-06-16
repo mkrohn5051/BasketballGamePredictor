@@ -6,6 +6,8 @@ Note: this is not an endoresement of breaking any laws...this dataset is availab
 ## File Information<br>
 Written with Python 3.8.0<br>
 
+Starting with the file ncaab_stats.csv<br>
+
 A Jupyter Notebook with the following packages:<br>
 pandas<br>
 numpy<br>
